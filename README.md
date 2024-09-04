@@ -1,13 +1,12 @@
 # <h1 align=center> **Proyecto: Quantum DataWorks** </h1>
 
-
 ---
 
-## `Descripción`
+## <h2 align=center> `Descripción` </h2>
 
 **Quantum DataWorks** es un proyecto de automatización y optimización de procesos de información en CVN, diseñado para mejorar la eficiencia, reducir errores y disminuir los costos operativos mediante la implementación de un sistema de procesamiento de datos robusto y preciso. Utilizando Python, pandas y otras herramientas, el proyecto se enfoca en la creación de un script que maneja grandes volúmenes de datos para generar informes y análisis detallados.
 
-### `Funciones del Script`
+### <h3 align=center> `Funciones del Script` </h3>
 
 1. **`proyecto_separacion(ruta_entrada, ruta_salida)`**
    - **Descripción:** Procesa un archivo Excel desde `ruta_entrada` para separar y unificar descripciones de mercancías en un nuevo archivo ubicado en `ruta_salida`.
@@ -36,7 +35,7 @@
 
 ---
 
-## `Tecnología Usada`
+## <h2 align=center> `Tecnología Usada` </h2>
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,7 +43,105 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## `Impacto del Proyecto`
+---
+
+## <h2 align=center> `Desafíos y Problemas` </h2>
+
+- **Integración de Datos:** Dificultades en la consolidación de datos provenientes de múltiples fuentes.
+- **Automatización de Tareas:** Necesidad de automatizar procesos repetitivos y complejos en Excel.
+- **Calidad de Datos:** Problemas con datos inconsistentes y formatos incorrectos.
+- **Escalabilidad:** Desafíos en el manejo eficiente de grandes volúmenes de datos.
+
+---
+
+## <h2 align=center> `Tecnologías y Metodologías Adicionales` </h2>
+
+- **Git:** Para el control de versiones y gestión de código.
+- **Jupyter Notebooks:** Para el desarrollo y prueba de scripts.
+- **Google Sheets API:** Para la integración de datos con Google Sheets.
+- **APIs:** Para la integración con herramientas externas y sistemas de datos.
+
+---
+
+## <h2 align=center> `Medición del Éxito` </h2>
+
+- **KPIs:** Reducción del tiempo de procesamiento de datos, precisión en los informes, y capacidad de manejo de grandes volúmenes de datos.
+- **Resultados:** Disminución del tiempo de procesamiento en un 50%, y reducción de errores en informes en un 70%.
+
+---
+
+## <h2 align=center> `Equipo del Proyecto` </h2>
+
+- **Nicolás Ramírez Perilla:** Líder y único colaborador. Responsable de la implementación de todas las fases del proyecto, desde el desarrollo de scripts en Python hasta la creación de informes en Power BI.
+
+---
+
+## <h2 align=center> `Fuentes de Datos y Integración` </h2>
+
+- **Fuentes:** Archivos Excel, bases de datos SQL, Google Sheets.
+- **Integración:** Uso de APIs para integración con Google Sheets y bases de datos SQL, y scripts personalizados para la automatización de tareas en Excel.
+
+---
+
+## <h2 align=center> `Gestión de Versiones y Actualizaciones` </h2>
+
+- **Sistema:** Control de versiones con Git, manejo de ramas para desarrollo y producción, y revisiones de código.
+
+---
+
+## <h2 align=center> `Informes y Visualización` </h2>
+
+- **Tipos:** Informes de análisis de datos, resúmenes financieros, y dashboards interactivos.
+- **Herramienta:** Power BI para la creación de dashboards y visualizaciones interactivas.
+
+---
+
+## <h2 align=center> `Seguridad` </h2>
+
+- **Medidas:** Protección de datos mediante cifrado, autenticación de usuarios, y controles de acceso basado en roles.
+
+---
+
+## <h2 align=center> `Pruebas y Rendimiento` </h2>
+
+- **Pruebas:** Pruebas de carga para evaluar el rendimiento en el procesamiento de grandes volúmenes de datos.
+- **Resultados:** Capacidad de procesar datos con un rendimiento optimizado, con tiempos de respuesta mejorados.
+
+---
+
+## <h2 align=center> `Gestión de Excepciones y Errores` </h2>
+
+- **Sistema:** Registro y manejo de excepciones mediante logging, y procedimientos de respuesta para errores críticos.
+
+---
+
+## <h2 align=center> `Soporte Técnico` </h2>
+
+- **Soporte:** Documentación técnica detallada, asistencia por correo electrónico, y sesiones de capacitación para usuarios finales.
+
+---
+
+## <h2 align=center> `Integraciones Externas` </h2>
+
+- **Herramientas:** Google Sheets, APIs de datos externos.
+- **Método:** Conectores personalizados y scripts de integración para consolidar datos.
+
+---
+
+## <h2 align=center> `Feedback de Usuarios` </h2>
+
+- **Opiniones:** Mejora en la eficiencia del procesamiento de datos y mayor precisión en los informes. Solicitudes para nuevas funcionalidades en los dashboards y opciones de personalización adicionales.
+
+---
+
+## <h2 align=center> `Documentación` </h2>
+
+- **Contenido:** Manuales de usuario, guías técnicas, y procedimientos operativos estándar.
+- **Acceso:** Documentación disponible en línea para el equipo y usuarios, con actualizaciones regulares.
+
+---
+
+## <h2 align=center> `Impacto del Proyecto` </h2>
 
 El proyecto **Quantum DataWorks** tuvo un impacto significativo en CVN al:
 
@@ -57,3 +154,4 @@ El proyecto **Quantum DataWorks** tuvo un impacto significativo en CVN al:
 </p>
 
 ---
+
