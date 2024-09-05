@@ -35,7 +35,7 @@
 
 ---
 
-## <h2 align=center> `Tecnología Usada` </h2>
+  ## <h2 align=center> `Tecnología Usada` </h2>
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -51,15 +51,6 @@
 - **Automatización de Tareas:** Necesidad de automatizar procesos repetitivos y complejos en Excel.
 - **Calidad de Datos:** Problemas con datos inconsistentes y formatos incorrectos.
 - **Escalabilidad:** Desafíos en el manejo eficiente de grandes volúmenes de datos.
-
----
-
-## <h2 align=center> `Tecnologías y Metodologías Adicionales` </h2>
-
-- **Git:** Para el control de versiones y gestión de código.
-- **Jupyter Notebooks:** Para el desarrollo y prueba de scripts.
-- **Google Sheets API:** Para la integración de datos con Google Sheets.
-- **APIs:** Para la integración con herramientas externas y sistemas de datos.
 
 ---
 
@@ -81,60 +72,49 @@
 - **Fuentes:** Archivos Excel, bases de datos SQL, Google Sheets.
 - **Integración:** Uso de APIs para integración con Google Sheets y bases de datos SQL, y scripts personalizados para la automatización de tareas en Excel.
 
----
 
-## <h2 align=center> `Gestión de Versiones y Actualizaciones` </h2>
+## <h3 align=left> Gestión de Versiones y Actualizaciones </h3>
 
 - **Sistema:** Control de versiones con Git, manejo de ramas para desarrollo y producción, y revisiones de código.
 
----
 
-## <h2 align=center> `Informes y Visualización` </h2>
+## <h3 align=left> Informes y Visualización </h3>
 
 - **Tipos:** Informes de análisis de datos, resúmenes financieros, y dashboards interactivos.
 - **Herramienta:** Power BI para la creación de dashboards y visualizaciones interactivas.
 
----
 
-## <h2 align=center> `Seguridad` </h2>
+## <h3 align=left> Seguridad </h3>
 
 - **Medidas:** Protección de datos mediante cifrado, autenticación de usuarios, y controles de acceso basado en roles.
 
----
-
-## <h2 align=center> `Pruebas y Rendimiento` </h2>
+## <h3 align=left> Pruebas y Rendimiento </h3>
 
 - **Pruebas:** Pruebas de carga para evaluar el rendimiento en el procesamiento de grandes volúmenes de datos.
 - **Resultados:** Capacidad de procesar datos con un rendimiento optimizado, con tiempos de respuesta mejorados.
 
----
 
-## <h2 align=center> `Gestión de Excepciones y Errores` </h2>
+## <h3 align=left> Gestión de Excepciones y Errores </h3>
 
 - **Sistema:** Registro y manejo de excepciones mediante logging, y procedimientos de respuesta para errores críticos.
 
----
 
-## <h2 align=center> `Soporte Técnico` </h2>
+## <h3 align=left> Soporte Técnico </h3>
 
 - **Soporte:** Documentación técnica detallada, asistencia por correo electrónico, y sesiones de capacitación para usuarios finales.
 
----
 
-## <h2 align=center> `Integraciones Externas` </h2>
+## <h3 align=left> Integraciones Externas </h3>
 
 - **Herramientas:** Google Sheets, APIs de datos externos.
 - **Método:** Conectores personalizados y scripts de integración para consolidar datos.
 
----
 
-## <h2 align=center> `Feedback de Usuarios` </h2>
+## <h3 align=left> Feedback de Usuarios </h3>
 
 - **Opiniones:** Mejora en la eficiencia del procesamiento de datos y mayor precisión en los informes. Solicitudes para nuevas funcionalidades en los dashboards y opciones de personalización adicionales.
 
----
-
-## <h2 align=center> `Documentación` </h2>
+## <h3 align=left> Documentación </h3>
 
 - **Contenido:** Manuales de usuario, guías técnicas, y procedimientos operativos estándar.
 - **Acceso:** Documentación disponible en línea para el equipo y usuarios, con actualizaciones regulares.
@@ -148,6 +128,8 @@ El proyecto **Quantum DataWorks** tuvo un impacto significativo en CVN al:
 - **Reducir errores:** Mediante la limpieza y normalización de datos, minimizando la posibilidad de errores en los informes.
 - **Aumentar la eficiencia:** Automatizando procesos de datos y actualizaciones, reduciendo el tiempo requerido para estas tareas.
 - **Disminuir los costos operativos:** Mejorando la precisión y rapidez del análisis de datos, lo que se traduce en una reducción de costos asociados con el manejo manual y la corrección de errores.
+
+---
 
 <p align="center">
 <img src="https://example.com/quantum-dataworks-2.png" alt="Quantum DataWorks">
