@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/Logo%20-%20Quantum%20Datawok.png" alt="QuatumData Banner" width="500"/>
+</div
+
 # <h1 align=center> **Proyecto: Quantum DataWorks** </h1>
 
 ---
@@ -52,6 +56,10 @@
 - **Calidad de Datos:** Problemas con datos inconsistentes y formatos incorrectos.
 - **Escalabilidad:** Desafíos en el manejo eficiente de grandes volúmenes de datos.
 
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/Gantt%20-%20Quantum%20DataWorks.png" alt="QuatumData Gantt" width="700"/>
+</div
+
 ---
 
 ## <h2 align=center> `Medición del Éxito` </h2>
@@ -65,6 +73,10 @@
 
 - **Nicolás Ramírez Perilla:** Líder y único colaborador. Responsable de la implementación de todas las fases del proyecto, desde el desarrollo de scripts en Python hasta la creación de informes en Power BI.
 
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/Team%20Work.png" alt="QuatumData TeamWork" width="300"/>
+</div
+
 ---
 
 ## <h2 align=center> `Fuentes de Datos y Integración` </h2>
@@ -72,6 +84,9 @@
 - **Fuentes:** Archivos Excel, bases de datos SQL, Google Sheets.
 - **Integración:** Uso de APIs para integración con Google Sheets y bases de datos SQL, y scripts personalizados para la automatización de tareas en Excel.
 
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/ETL%20Flow%20Chart%20-%20Quatum%20Datawork.png" alt="QuatumData ETL" width="600"/>
+</div
 
 ## <h3 align=left> Gestión de Versiones y Actualizaciones </h3>
 
@@ -128,12 +143,5 @@ El proyecto **Quantum DataWorks** tuvo un impacto significativo en CVN al:
 - **Reducir errores:** Mediante la limpieza y normalización de datos, minimizando la posibilidad de errores en los informes.
 - **Aumentar la eficiencia:** Automatizando procesos de datos y actualizaciones, reduciendo el tiempo requerido para estas tareas.
 - **Disminuir los costos operativos:** Mejorando la precisión y rapidez del análisis de datos, lo que se traduce en una reducción de costos asociados con el manejo manual y la corrección de errores.
-
----
-
-<p align="center">
-<img src="https://example.com/quantum-dataworks-2.png" alt="Quantum DataWorks">
-</p>
-
 ---
 
